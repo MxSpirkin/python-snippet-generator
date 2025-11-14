@@ -38,5 +38,6 @@ if condition:
 else:
     pass
 
-
+if condition:
+    pass
 
