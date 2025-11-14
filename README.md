@@ -27,7 +27,7 @@
 
 ### Для разработки
 ```bash
-git clone [https://github.com/MxSpirkin/python-snippet-generator.git]
+git clone https://github.com/MxSpirkin/python-snippet-generator.git
 cd python-snippet-generator
 npm install
 npm run compile
